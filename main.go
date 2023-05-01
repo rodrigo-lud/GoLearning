@@ -26,4 +26,5 @@ func main() {
 			fmt.Print("Try again > :")
 		}
 	}
+	fmt.Print("/nChange in gitHub test!")
 }
